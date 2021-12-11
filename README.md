@@ -19,13 +19,13 @@
 ---
 ## 🎧 Spotify Playing
 
-[![Spotify](https://black-amda.vercel.app/api/spotify)](https://open.spotify.com/user/byk2qmulgj77v7sjv55pl0jjy)
+[![Spotify](https://yasasdileepa.vercel.app/api/spotify)](https://open.spotify.com/user/byk2qmulgj77v7sjv55pl0jjy)
 
 ---
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=BlackAmda&show_icons=true&theme=highcontrast" alt="BlackAmda" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=yasasdileepa&show_icons=true&theme=highcontrast" alt="yasasdileepa" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=BlackAmda&theme=highcontrast" alt="BlackAmda" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=yasasdileepa&theme=highcontrast" alt="yasasdileepa" /></p>
 </details>
 
 ---
